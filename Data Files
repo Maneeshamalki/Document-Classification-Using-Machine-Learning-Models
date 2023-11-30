@@ -1,1 +1,15 @@
+This project focuses on employing machine learning techniques for document classification across multiple domains. Leveraging a dataset containing 1000 documents categorized into eight diverse classes—Business, Entertainment, Food, Graphics, Historical, Politics, Space, Sport, and Technology—the aim is to develop robust classifiers capable of accurately assigning documents to their respective categories.
 
+Key Components:
+Multiple Model Implementation: The project utilizes five distinct machine learning models—Random Forest, K-Nearest Neighbors (KNN) Classifier, Gradient Boosting, Naive Bayes, and Support Vector Machine (SVM)—to perform document classification.
+
+Dataset Processing: While the dataset itself cannot be provided in this repository due to privacy constraints, comprehensive guidelines and instructions are included to help users acquire a similar dataset and preprocess it effectively for model training.
+
+How It Works:
+The codebase is organized into various directories encompassing essential functionalities:
+
+Data Handling: Placeholder directory (data/) providing guidance on structuring and handling the dataset.
+Model Implementations: Code for each machine learning model resides in the models/ directory.
+Notebooks: Jupyter notebooks (notebooks/) demonstrate the end-to-end process of training, evaluating, and testing the models.
+Utilities: Handy scripts and utility functions for data preprocessing are located in the utils/ directory.
+Dependencies: A requirements.txt file lists the necessary Python packages for running the codebase seamlessly.
